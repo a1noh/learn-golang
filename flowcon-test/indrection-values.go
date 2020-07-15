@@ -25,4 +25,5 @@ func main() {
 	p := &Vertex{4, 3}
 	fmt.Println(p.Abs())
 	fmt.Println(AbsFunc(*p))
+	//여기
 }
